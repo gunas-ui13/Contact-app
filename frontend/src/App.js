@@ -7,7 +7,7 @@ function App() {
   const [loading, setLoading] = useState(false);
 
   // BASE URL for your deployed backend
-  const API_BASE_URL = 'https://contact-app-kxj8.onrender.com/api/contacts';
+  const API_BASE_URL = 'https://contact-app-2h6c.onrender.com/';
 
   const fetchContacts = async () => {
     try {
